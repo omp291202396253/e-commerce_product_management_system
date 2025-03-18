@@ -26,4 +26,4 @@ Credentials:- admin@gmail.com  || Password:- admin123
 
 ## User Login
 Login Url:- http://localhost/e-commerce_product_management_system/public/login
-Credentials:- user@demo.com  || Password:- user1234
+Credentials:- user@demo.com  || Password:- User1234

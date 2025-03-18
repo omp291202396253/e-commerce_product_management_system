@@ -64,3 +64,25 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Clone the Project
+
+First Clone the project by code green color button
+
+## setup the project
+
+Setup the project in htdocs 
+
+## Import Sql 
+
+setup sql file from database folder
+
+## run composer update command
+
+## Add .env folder by copying .env.example
+
+## run the project
+
+Run the project with localhost/e-commerce_project_management_system/public
+or you can do php artisan serve
